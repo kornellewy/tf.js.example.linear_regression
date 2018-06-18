@@ -1,11 +1,11 @@
-# Project Title
+# tensorflow.js linear regression example
 
 tensorflow.js linear regression example
 
 
 ## Authors
 
-* **Kornelisz Lewczuk** - *Initial work*
+* **Kornelisz Lewczuk** 
 
 ## License
 
