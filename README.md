@@ -1,11 +1,13 @@
 # tensorflow.js linear regression example
 
-tensorflow.js linear regression example
+
+
+
 
 
 ## Authors
 
-* **Kornelisz Lewczuk** 
+* **Kornelisz Lewczuk**
 
 ## License
 
